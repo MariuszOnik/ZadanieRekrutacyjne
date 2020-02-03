@@ -1,2 +1,2 @@
 # ZadanieRekrutacyjne
-Działająca wersja zadania
+Działająca wersja zadania : https://mariuszonik.github.io/ZadanieRekrutacyjne/.
